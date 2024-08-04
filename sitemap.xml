@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/Phi_Portfolio/blogs/</loc>
+    <lastmod>2024-04-01T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Phi_Portfolio/</loc>
+    <lastmod>2024-04-01T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Phi_Portfolio/blogs/sql/</loc>
+    <lastmod>2024-04-01T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Phi_Portfolio/blogs/excel/</loc>
+    <lastmod>2023-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Phi_Portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Phi_Portfolio/tags/</loc>
+  </url>
+</urlset>
